@@ -1,0 +1,16 @@
+{
+  "short_name": "To-Do",
+  "name": "Ionic To-Do List",
+  "description": "A minimalist to-do list app",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3880ff",
+  "icons": [
+    {
+      "src": "assets/icon/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
